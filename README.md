@@ -109,3 +109,7 @@ sudo docker-compose up -d --build
     sudo docker-compose exec backend python manage.py createsuperuser
     ```
     - Проект будет доступен по вашему IP
+
+
+### Ссылка на проект
+http://185.138.164.244/signin
